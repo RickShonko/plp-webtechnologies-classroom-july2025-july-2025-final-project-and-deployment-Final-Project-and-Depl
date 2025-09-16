@@ -60,7 +60,7 @@
 
    #home{
     background: linear-gradient(to top, rgba(0,0,0, 0.4)50%, rgba(0, 0, 0, 0.4)50%),
-    url(images/mango1.jpg);
+    url(Images/mango1.jpg);
     background-position: center;
     background-size: cover;
     min-height: 100vh;
