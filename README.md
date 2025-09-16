@@ -7,7 +7,7 @@ The website showcases a fictional mango shop called **Mango Palace**, where user
 
 ## 🌐 Live Demo
 You can view the site here:  
-👉 [Live URL](#)  
+👉 [Live URL](https://mango-palace.vercel.app/)  
 
 ---
 
@@ -33,15 +33,25 @@ The Mango Palace website is a responsive, user-friendly platform designed to hig
 ## 📂 Project Structure
 .
 ├── index.html
+
 ├── products.html
+
 ├── about us.html
+
 ├── contact us.html
+
 ├── styles.css
+
 ├── images/
+
 │ ├── m1.jpg
+
 │ ├── m2.jpg
+
 │ ├── m3.jpg
+
 │ └── mango1.jpg
+
 └── README.md
 
 
@@ -53,12 +63,8 @@ The website can be hosted using:
 - **Netlify**  
 - **Vercel**  
 
-Once hosted, update the **Live URL** section above.  
-
----
-
-## 📸 Screenshots
-_Add screenshots of your homepage, products page, and mobile sidebar once deployed._  
+I hosted mine using [vercel](https://mango-palace.vercel.app/)  
+  
 
 ---
 
